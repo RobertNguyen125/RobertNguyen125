@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RobertNguyen125
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on S
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently working with Python and SQL for data analysis at TpBank
 - 📫 How to reach me via ngaduc92@gmail.com or https://www.linkedin.com/in/duc-anguyen/
 
 <!---
